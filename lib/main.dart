@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:diego/mi_widgets/mi_tarjeta.dart';
+import 'package:diego/mi_widgets/dialogo_acerca_de.dart';
 
 const Color darkBlue = Color(0xFF12202F);
 void main() => runApp(MiTarjeta());
@@ -19,7 +19,8 @@ class MiTarjeta extends StatelessWidget {
           title: const Text("Flutter Diego"),
           centerTitle: true,
         ),
-        body: const LaTarjeta(),
+        // body: const LaTarjeta(),
+        body: const DialogoAcercaDe(),
       ),
     );
   }

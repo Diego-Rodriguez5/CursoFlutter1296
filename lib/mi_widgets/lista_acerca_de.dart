@@ -11,10 +11,10 @@ class ListaAcercaDe extends StatelessWidget {
         icon: Icon(Icons.info),
         applicationIcon: FlutterLogo(),
         applicationLegalese: 'Legalese',
-        applicationName: 'Flutter App',
+        applicationName: 'Flutter App 1296',
         applicationVersion: 'version 1.0.0',
         aboutBoxChildren: [
-          Text('This is a text created by Flutter Mapp'),
+          Text('Este es un texto creado por Flutter Mapp'),
         ],
       ),
     );

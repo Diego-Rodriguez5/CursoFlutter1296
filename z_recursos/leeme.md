@@ -6,4 +6,5 @@
 ![DialogoAcercaDe](dialogor.jpg)
 
 ## Ejemplo de Lista 
-![DialogoAcercaDe](lista.jpg)
+![ListaAcercaDe](lista.jpg)
+![ListaAcercaDe](listar.jpg)

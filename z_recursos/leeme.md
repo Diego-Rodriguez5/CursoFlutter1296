@@ -2,5 +2,8 @@
 ![la tarjeta](card.jpg)
 
 ## Ejemplo Un Dialogo de Alerta
-![dialogo_acerca_de.dart](dialogo.jpg)
-![la tarjeta](dialogor.jpg)
+![DialogoAcercaDe](dialogo.jpg)
+![DialogoAcercaDe](dialogor.jpg)
+
+## Ejemplo de Lista 
+![DialogoAcercaDe](lista.jpg)
